@@ -1,6 +1,6 @@
 from snake import *
 from food import *
-from scoreboard import *
+from scorecard import *
 
 from turtle import Turtle, Screen
 import time
